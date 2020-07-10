@@ -85,8 +85,8 @@ namespace UnityBase
                 if (DailyTasks.Any())
                 {
                     return DailyTasks[CurrentDailyTaskIndex];
-                }
-                return null;
+                }             
+                return GetDailyTask(DateTime.Now);
             }
             set
             {
