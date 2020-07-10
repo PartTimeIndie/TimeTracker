@@ -1,5 +1,5 @@
 # TimeTracker
-A Unity3d extension to track the time you worked on a project
+A Unity3d extension to automatically track the time you worked on a project
 
 You can take a look at the TimeTrackerDocumentation.pdf for more detailed information.
 
